@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Sara\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.dll" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-10-11" time="16:24:09">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.6421" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="SARA-PC" user="Sara" user-domain="Sara-pc" />
+  <culture-info current-culture="es-ES" current-uiculture="es-ES" />
+  <test-suite type="Assembly" name="C:\Users\Sara\Documents\Visual Studio 2012\Projects\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.dll" executed="True" result="Success" success="True" time="0.093" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="FizzBuzzTest" executed="True" result="Success" success="True" time="0.076" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="FizzBuzzTest" executed="True" result="Success" success="True" time="0.074" asserts="0">
+            <results>
+              <test-case name="FizzBuzzTest.FizzBuzzTest.Mostrar1" executed="True" result="Success" success="True" time="0.040" asserts="1" />
+              <test-case name="FizzBuzzTest.FizzBuzzTest.Mostrar15" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="FizzBuzzTest.FizzBuzzTest.Mostrar3" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="FizzBuzzTest.FizzBuzzTest.Mostrar5" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="FizzBuzzTest.FizzBuzzTest.Mostrar6" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
